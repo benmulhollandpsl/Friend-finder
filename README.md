@@ -1,6 +1,6 @@
 # Friend-finder
 a compatibility-based "friend-finder" application using express
-
+made by Ben Mulholland
 
 # Friend Finder - Node and Express Servers
 
@@ -23,8 +23,4 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 https://afternoon-stream-80941.herokuapp.com/ | https://git.heroku.com/afternoon-stream-80941.git
 
 
-
-### Minimum Requirements
-
-
-
+lessons learned: JSON files are more specific than I had previously imagind, I had an extra line break that was preventing my deployment, and a previous server test was also.  I appreciate feedback (feedback is a gift always) and thank you for visiting this page.
