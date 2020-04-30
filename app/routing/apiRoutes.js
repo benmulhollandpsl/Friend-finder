@@ -4,7 +4,7 @@ var friends = require("../data/friends");
 
 module.exports = function(app) {
   
-
+ //get route to display survey page
   app.get("/api/friends", function(req, res) {
     res.json(friends);
   });
