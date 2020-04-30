@@ -20,7 +20,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 ### deployment 
 2.  Heroku link 
-https://afternoon-stream-80941.herokuapp.com/ | https://git.heroku.com/afternoon-stream-80941.git
+https://nameless-escarpment-98264.herokuapp.com/
 
 
 lessons learned: JSON files are more specific than I had previously imagind, I had an extra line break that was preventing my deployment, and a previous server test was also.  I appreciate feedback (feedback is a gift always) and thank you for visiting this page.
